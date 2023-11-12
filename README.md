@@ -1,2 +1,3 @@
-# Letscode-br-santander-curso
+# Curso Digital: Git
+
 Aprendizados do curso Santander
